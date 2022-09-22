@@ -9,6 +9,6 @@
 * Camping ⛺
 * Archery 🏹
 
-I'm not sure what else to say so heres a gif of Bongo Cat
+I'm not sure what else to say so here's a gif of Bongo Cat
 
 ![](bong-bong-cat.gif)
