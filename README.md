@@ -11,5 +11,4 @@
 
 I'm not sure what else to say so heres a gif of Bongo Cat
 
-[Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+[Bongo Cat]((https://c.tenor.com/J4XSBiMtAZMAAAAC/bongo-cat-drum.gif))
