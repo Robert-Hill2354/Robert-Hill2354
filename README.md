@@ -11,4 +11,4 @@
 
 I'm not sure what else to say so heres a gif of Bongo Cat
 
-[Bongo Cat]()
+![](bong-bong-cat.gif)
