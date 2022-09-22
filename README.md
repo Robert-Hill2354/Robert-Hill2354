@@ -8,5 +8,8 @@
 * Hiking (*I'm not always a nerd*) 🥾
 * Camping ⛺
 * Archery 🏹
-Not sure what else to add so heres a gif of bongo cat
-![Bongo Cat]([https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.redd.it%2F2w2otnhwuck11.gif&imgrefurl=https%3A%2F%2Fcodepen.io%2FNe0ix%2Fpen%2FYJqKGR&tbnid=gqZtE4PP8kWfPM&vet=12ahUKEwi6obKi3Kj6AhXrrnIEHeX3BsEQMygAegUIARDSAQ..i&docid=P0JNQkB1R-Z0kM&w=992&h=1006&q=bongo%20cat%20gif%20svg&ved=2ahUKEwi6obKi3Kj6AhXrrnIEHeX3BsEQMygAegUIARDSAQ](https://media.giphy.com/media/sthmCnCpfr8M8jtTQy/giphy.gif))
+
+I'm not sure what else to say so heres a gif of Bongo Cat
+
+
+img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
