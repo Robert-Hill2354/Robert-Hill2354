@@ -11,4 +11,4 @@
 
 I'm not sure what else to say so heres a gif of Bongo Cat
 
-[Bongo Cat]([(https://c.tenor.com/J4XSBiMtAZMAAAAC/bongo-cat-drum.gif)](https://c.tenor.com/J4XSBiMtAZMAAAAC/bongo-cat-drum.gif))
+[Bongo Cat]([(https://c.tenor.com/J4XSBiMtAZMAAAAC/bongo-cat-drum.gif)])
